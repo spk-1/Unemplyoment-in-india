@@ -29,7 +29,7 @@
 ## Insights & Conclusions:  
 •	Regions such as Tripura and Haryana faced the highest average unemployment rates, indicating severe economic challenges.  
 •	Meghalaya and Assam exhibited lower average unemployment rates, suggesting better employment conditions.  
-•	The North region consistently showed higher employment levels, while the Northeast displayed high labor participation rates, reflecting diverse economic conditions across states.
-Future Work:  
+•	The North region consistently showed higher employment levels, while the Northeast displayed high labor participation rates, reflecting diverse economic conditions across states.  
+## Future Work:  
 •	Expanding the analysis to include more recent data post-2020 to assess the recovery trends.  
 •	Integrating more economic indicators, such as GDP growth and sector-wise employment, to provide a comprehensive view of regional economic health.  
